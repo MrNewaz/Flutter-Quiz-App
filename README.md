@@ -1,6 +1,7 @@
 # Quiz App
 Language : Dart
 Framework : Flutter
+UI Design Pattern : Material 3 
 IDE : Android Studio & VS Code
 
 ## Pages:

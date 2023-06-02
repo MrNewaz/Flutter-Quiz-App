@@ -12,16 +12,16 @@ IDE : Android Studio & VS Code
 ## Screenshots:
 
 ### Welcome Page
-<img src="screenshots/welcome.png" width="100%">
+<img src="screenshots/welcome.png" width="500">
 
 ### Quiz Page
-<img src="screenshots/quiz.png" width="300">
+<img src="screenshots/quiz.png" width="500">
 
 ### Score Page
-<img src="screenshots/score.png" width="300">
+<img src="screenshots/score.png" width="500">
 
 ### History Page
-<img src="screenshots/history.png" width="300">
+<img src="screenshots/history.png" width="500">
 
 
 

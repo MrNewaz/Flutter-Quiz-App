@@ -37,6 +37,7 @@ class Option extends StatelessWidget {
           return Padding(
             padding: const EdgeInsets.only(top: 20),
             child: InkWell(
+              borderRadius: BorderRadius.circular(25),
               onTap: quizController.isAnswered ? () {} : press,
               child: Container(
                 padding: const EdgeInsets.all(20),

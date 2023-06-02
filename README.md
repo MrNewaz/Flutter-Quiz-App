@@ -12,7 +12,7 @@ IDE : Android Studio & VS Code
 ## Screenshots:
 
 ### Welcome Page
-<img src="screenshots/welcome.png" width="300">
+<img src="screenshots/welcome.png" width="100%">
 
 ### Quiz Page
 <img src="screenshots/quiz.png" width="300">
